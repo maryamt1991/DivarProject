@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { checkOtp } from '../../services/auth';
 import setCookie from '../../utils/cookie';
 
